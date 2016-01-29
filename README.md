@@ -1,1 +1,0 @@
-# android_device_zte_p188f07
